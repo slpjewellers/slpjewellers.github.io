@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4aa4ce66.chunk.css",
+    "main.js": "/static/js/main.7c278e09.chunk.js",
+    "main.js.map": "/static/js/main.7c278e09.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0582222c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0582222c.js.map",
+    "static/css/2.da834a9b.chunk.css": "/static/css/2.da834a9b.chunk.css",
+    "static/js/2.645ae199.chunk.js": "/static/js/2.645ae199.chunk.js",
+    "static/js/2.645ae199.chunk.js.map": "/static/js/2.645ae199.chunk.js.map",
+    "static/js/3.c5034bb3.chunk.js": "/static/js/3.c5034bb3.chunk.js",
+    "static/js/3.c5034bb3.chunk.js.map": "/static/js/3.c5034bb3.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.da834a9b.chunk.css.map": "/static/css/2.da834a9b.chunk.css.map",
+    "static/css/main.4aa4ce66.chunk.css.map": "/static/css/main.4aa4ce66.chunk.css.map",
+    "static/js/2.645ae199.chunk.js.LICENSE.txt": "/static/js/2.645ae199.chunk.js.LICENSE.txt",
+    "static/media/8-2-lakshmi-picture.6d4c926b.png": "/static/media/8-2-lakshmi-picture.6d4c926b.png",
+    "static/media/Dhurjati-Regular.dab9566d.ttf": "/static/media/Dhurjati-Regular.dab9566d.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0582222c.js",
+    "static/css/2.da834a9b.chunk.css",
+    "static/js/2.645ae199.chunk.js",
+    "static/css/main.4aa4ce66.chunk.css",
+    "static/js/main.7c278e09.chunk.js"
+  ]
+}
